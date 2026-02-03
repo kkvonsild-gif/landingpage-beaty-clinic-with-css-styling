@@ -10,6 +10,7 @@ body {
 div {margin: 30px;
     padding: 20px;
     width: 420px;
+    height: 870px;
     background-color:#F3F1E5;}
 
 h1 {font-size: 13px;
@@ -17,9 +18,9 @@ h1 {font-size: 13px;
 
 img {border-radius: 30px;
     width: 380px;
-    height: 670px;
+    height: auto;
     object-fit: cover;}
 
-p {font-size: 40px;
-    font-weight: 550;
-    line-height: 0.8;}
+p {font-size: 38px;
+    font-weight: 500;
+    line-height: 0.9;}
